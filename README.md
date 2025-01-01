@@ -36,4 +36,4 @@ The application follows a microservices architecture, with each service implemen
 1. Clone the repository:
    ```sh
    git clone https://github.com/your-username/AIOrderFulfillmentService.git
-   cd AIOrderFulfillmentService
+   cd AI-Order-Fulfillment-Service-Go-Language
